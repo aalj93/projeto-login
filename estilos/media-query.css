@@ -1,7 +1,7 @@
 @charset "UTF-08";
 
 @media screen and (min-width:768px) and (max-width:992px) { 
-    body{ background: url() no-repeat;
+    body{ background: url(../imagens/fundo.png) no-repeat;
     background-size: cover; position: bottom
     ;} 
     section#login{
@@ -19,8 +19,8 @@
     }
 }
 @media screen and (min-width:992px) { 
-    body{ background: url(../imagens/fundo.jpg) no-repeat;
-        background-size: contain; position: bottom
+    body{ background: url(../imagens/fundo\ 2.jpg) no-repeat;
+        background-size: cover; position:center center
         ;} 
     section#login{
         width: 950px
@@ -37,4 +37,5 @@
     }
     div#formulario>h1{ font-size: 2em;}
     div#formulario>p{font-size: 1.2em;
+}
 }
