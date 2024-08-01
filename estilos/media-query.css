@@ -5,7 +5,8 @@
     background-size: cover; position: bottom
     ;} 
     section#login{
-        width: 80vw;
+        width: 950px;
+        height: 280px;
 
     }
     section#login>div#imagem{
@@ -17,13 +18,17 @@
         float: right;
         width: 70%;
     }
+    div#formulario>h1{ font-size: 2em;}
+    div#formulario>p{font-size: 1.3em;
+        margin: 10px 0px;}
 }
 @media screen and (min-width:992px) { 
     body{ background: url(../imagens/fundo\ 2.jpg) no-repeat;
         background-size: cover; position:center center
         ;} 
     section#login{
-        width: 950px
+        width: 950px;
+        height: 350px;
 
     }
     section#login>div#imagem{
@@ -36,6 +41,7 @@
         width: 50%;
     }
     div#formulario>h1{ font-size: 2em;}
-    div#formulario>p{font-size: 1.2em;
+    div#formulario>p{font-size: 1.3em;
+        margin: 30px 0px;
 }
 }
