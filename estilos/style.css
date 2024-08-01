@@ -49,9 +49,9 @@ section#login>div#formulario{
     padding: 10px;}
 
 div#formulario>h1{ text-align: center;
-margin-bottom: 10px;}
+margin-bottom: 5px;font-size: 1.9em;letter-spacing: 2.5px;}
 
-div#formulario>p{font-size: 1em;}
+div#formulario>p{font-size: 1.1em;padding-left: 7px;}
 
 form>div.campo{ background-color: #e4091b;
 width: 100%;
@@ -103,7 +103,7 @@ form> a.botao {display: block;
     margin-top: 5px;
     background-color: black;
     border: 1px solid rgba(37, 37, 37, 0.733);
-    border-radius: 5px;
+    border-radius: 8px;
     color: white;
     text-decoration: none;
 }
