@@ -84,14 +84,14 @@ div.campo>input{background-color: #ffffffd2;
     border-radius: 8px;
     border: 2px solid rgba(0, 0, 0, 0.541);
     padding: 10px;
-    transform: translateY(-14px);}
+    transform: translateY(-14px); word-spacing: 2px;}
 
 div.campo>input:focus-within{background-color: white;}
 
 div.campo>label{display: none;}
 
 form>input[type=submit]:hover{
-    background-color: #8C030E;
+    background-color: #8C030E;;
 }
 
 form> a.botao {display: block;
@@ -106,6 +106,7 @@ form> a.botao {display: block;
     border-radius: 8px;
     color: white;
     text-decoration: none;
+    letter-spacing: 1.5px;
 }
  form> a.botao:hover{ background-color: rgb(29, 29, 29);}
 
