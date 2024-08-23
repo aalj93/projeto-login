@@ -68,7 +68,7 @@ form>input[type=submit]{
     background-color: #e4091b;
     border: none;
     border-radius: 8px;
-    color: white;
+    color: rgb(0, 0, 0);
     cursor: pointer;
 }
 
@@ -78,7 +78,7 @@ div.campo>span{
     padding: 5px;
 }
 div.campo>input{background-color: #ffffffd2;
-    color: white;
+    color: rgb(0, 0, 0);
     height: 41px;
     width: calc(100% - 43px);
     border-radius: 8px;
