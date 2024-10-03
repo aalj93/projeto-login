@@ -55,7 +55,7 @@ div#formulario>p{font-size: 1.1em;padding-left: 7px;}
 
 form>div.campo{ background-color: #e4091b;
 width: 100%;
-height: 40px;
+height: 41px;
 display: block;
 border-radius: 8px;
 margin: 5px 0px;}
@@ -84,7 +84,7 @@ div.campo>input{background-color: #ffffffd2;
     border-radius: 8px;
     border: 2px solid rgba(0, 0, 0, 0.541);
     padding: 10px;
-    transform: translateY(-14px); word-spacing: 2px;}
+    transform: translateY(-13px); word-spacing: 2px;}
 
 div.campo>input:focus-within{background-color: white;}
 
